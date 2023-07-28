@@ -2,7 +2,7 @@
 <!---
 - 👀 I’m interested in ...
 --->
-- 🌱 I’m currently learning C, C++
+- 🌱 I’m currently learning C, C++, Docker, React, Next.JS, Nest.JS, Prisma, PostgreSQL..
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
