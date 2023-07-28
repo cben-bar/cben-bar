@@ -9,6 +9,7 @@
 --->
 - 📫 How to reach me: benbarekc@gmail.com
 <!---
+https://badge42.vercel.app/api/v2/clkmw022q012208l8kko6j36d/stats?cursusId=21&coalitionId=302
 cben-bar/cben-bar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
